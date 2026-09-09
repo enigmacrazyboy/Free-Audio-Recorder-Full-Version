@@ -237,3 +237,6 @@ This repository serves as the official landing page for Free Audio Recorder. The
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Free Audio Recorder today!**
+
+---
+**Last updated:** 2026-09-09 12:43:28 UTC
